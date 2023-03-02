@@ -1,0 +1,66 @@
+
+h1
+{
+    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'M PLUS Code Latin', sans-serif;
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-family: 'PT Mono', monospace;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: orangered;
+}
+body{
+background-attachment:fixed ;
+background-image: url(../Images/wallpapers\ fondo.webp);
+}
+a{
+    color: orangered;
+}
+.img
+{
+display:flex;
+
+justify-content: center;
+
+}
+.rojo{
+
+}
+.span-html{
+
+    display: flex;
+    justify-content: center;
+    color: orangered;
+    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'M PLUS Code Latin', sans-serif;
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-family: 'PT Mono', monospace;
+    font-size: 25px;
+    background-color: black;
+    
+    
+
+}
+.css-html{
+    display: flex;
+    justify-content: center;
+    color:rgb(0, 123, 255);
+    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'M PLUS Code Latin', sans-serif;
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-family: 'PT Mono', monospace;
+    font-size: 25px;
+    background-color: black;
+}
+
+.git-html{
+    display: flex;
+    justify-content: center;
+    color:red;
+    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'M PLUS Code Latin', sans-serif;
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-family: 'PT Mono', monospace;
+    font-size: 25px;
+    background-color: black;
+}
